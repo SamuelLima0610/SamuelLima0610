@@ -40,7 +40,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=GabrielSBrito17&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api?username=SamuelLima0610&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
         alt="Github stats"
       />
     </td>
@@ -55,7 +55,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielSBrito17&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelLima0610&theme=dark&hide_border=false"
         alt="Github stats"
       />
     </td>
@@ -71,7 +71,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
   >
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=GabrielSBrito17&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=SamuelLima0610&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
 </p>
