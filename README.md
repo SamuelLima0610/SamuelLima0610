@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou Baiano, tenho 26 anos e sou <strong>Back-end Developer</strong>, mas posso contribuir com <strong>Front-End</strong> .
+  Sou Baiano, tenho 27 anos e sou <strong>Back-end Developer</strong>, mas posso contribuir com <strong>Front-End</strong> .
 
 Graduado em Engenharia de Computação pela Universidade Estadual de Feira de Santana. Estou sempre empenhado em aprimorar minhas habilidades e aprender coisas novas. 
 
