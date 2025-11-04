@@ -26,7 +26,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VUE.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 |[Java Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-|[https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white](https://img.shields.io/badge/NextJs-000000?style=flat&logo=next.js&logoColor=white))
+|[Next.js](https://img.shields.io/badge/NextJs-000000?style=flat&logo=next.js&logoColor=white))
 
 <p align="left">
   💌 Sinta-se a vontade para entrar em contato: ⤵️
